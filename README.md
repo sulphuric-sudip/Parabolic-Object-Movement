@@ -18,4 +18,4 @@
 
 **4. Then equation becomes Y = (1/12)X<sup>2</sup> - (7)X + (485/30)**
 
-**5. Use this equation and use loop to move object as shown in code.**
+**5. Use this equation and use loop to move object as shown in sample code.**
